@@ -1,0 +1,49 @@
+body {
+    background-color: blue;
+}
+
+.main {
+    width: 400px;
+    height: 350px;
+    background-color: white;
+    border-radius: 8px;
+    margin-left: 35%;
+}
+
+input {
+    margin-top: 25px;
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid silver;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin-left: 35px;
+}
+
+label {
+    margin-top: 20px;
+}
+
+#check1 {
+    width: 15px;
+    height: 15px;
+    margin-left: 100px;
+}
+
+button {
+    margin-top: 10px;
+    width: 380px;
+    height: 34px;
+    background-color: blue;
+    border: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    border-radius: 7px;
+    margin-left: 10px;
+}
+
+h1 {
+    text-align: center;
+}
